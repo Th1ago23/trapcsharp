@@ -1,0 +1,7 @@
+C:\Users\cirof\source\repos\Projeto POO versão final\bin\Debug\Projeto POO versão final.exe.config
+C:\Users\cirof\source\repos\Projeto POO versão final\bin\Debug\Projeto POO versão final.exe
+C:\Users\cirof\source\repos\Projeto POO versão final\bin\Debug\Projeto POO versão final.pdb
+C:\Users\cirof\source\repos\Projeto POO versão final\obj\Debug\Projeto POO versão final.csproj.AssemblyReference.cache
+C:\Users\cirof\source\repos\Projeto POO versão final\obj\Debug\Projeto POO versão final.csproj.CoreCompileInputs.cache
+C:\Users\cirof\source\repos\Projeto POO versão final\obj\Debug\Projeto POO versão final.exe
+C:\Users\cirof\source\repos\Projeto POO versão final\obj\Debug\Projeto POO versão final.pdb
